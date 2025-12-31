@@ -1,0 +1,7 @@
+# This file ensures the conversations directory is tracked by Git
+# The actual database file (conversations.db) will be created at runtime
+# and is ignored by .gitignore 
+
+
+
+
